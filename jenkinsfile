@@ -34,8 +34,6 @@ assert subtract(5,2) == 3
 assert divide(10,2) == 5
 
 print('All tests passed')
-"
-                '''
             }
         }
 
